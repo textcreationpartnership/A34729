@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Adamites sermon containing their manner of preaching, expounding, and prophesying, as it was delivered in Marie-bone Park / by Obadiah Couchman, a grave weaver, dwelling in Southwark, who with his companie were taken and discovered by the constable and other officers of that place, by the meanes of a womans husband who dogged them hither, and some part likewise by meanes of a gentlewoman, a widow who is a ministers daughter in the citie of London, who was almost perswaded to become one of their societie, if her father had not disswaded her from it ; also a dialogue between an Adamite and a Brownist, concerning their religion, &amp;c.</title>
+            <author>Couchman, Obadiah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34729</idno>
+            <idno type="STC">Wing C6511</idno>
+            <idno type="STC">ESTC R14668</idno>
+            <idno type="EEBO-CITATION">12718634</idno>
+            <idno type="OCLC">ocm 12718634</idno>
+            <idno type="VID">66274</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66274)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 979:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Adamites sermon containing their manner of preaching, expounding, and prophesying, as it was delivered in Marie-bone Park / by Obadiah Couchman, a grave weaver, dwelling in Southwark, who with his companie were taken and discovered by the constable and other officers of that place, by the meanes of a womans husband who dogged them hither, and some part likewise by meanes of a gentlewoman, a widow who is a ministers daughter in the citie of London, who was almost perswaded to become one of their societie, if her father had not disswaded her from it ; also a dialogue between an Adamite and a Brownist, concerning their religion, &amp;c.</title>
+                  <author>Couchman, Obadiah.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coules,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Adamites.</term>
+               <term>Brownists.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66274:1"/>
+            <pb facs="tcp:66274:1"/>
+            <p>The Adamites Sermon: Containing their manner of Preaching, Expounding, and Prophe<g ref="char:EOLhyphen"/>ſying: As it was delivered in <hi>Marie-bone</hi> Park, by <hi>Obadiah Couchman,</hi> a grave Weaver, dwelling in <hi>Southwark,</hi> who with his compa<g ref="char:EOLhyphen"/>nie were taken and diſcovered by the Con<g ref="char:EOLhyphen"/>ſtable and other Officers of that pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce; by the meanes of a womans husband who dog<g ref="char:EOLhyphen"/>ged them thither.</p>
+            <p>And ſome part likewiſe by meanes of a Gentlewoman, a widow, which is a Miniſters daughter in the Citie of <hi>London,</hi> who was almoſt perſwaded to become one of their Societie, if her father had not diſſwaded her from it.</p>
+            <p>Alſo a Dialogue between an Adamite and a Browniſt, <hi>concerning their Religion, &amp;c.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a group of Adamites</figDesc>
+            </figure>
+            <p>Printed for <hi>Francis Coules,</hi> in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:66274:2"/>
+            <head>A Dialogue between an <hi>Adamite</hi> and a <hi>Browniſt,</hi> concerning their Religion, &amp;c.</head>
+            <sp>
+               <speaker>Adamite.</speaker>
+               <p>
+                  <seg rend="decorInit">P</seg>Eace be upon you well beloved brother, may I be bold to know whither the Spirit moveth you to bend your courſe? for if I be not miſtaken, your frequent and far fetcht ſighes, the continuall elevation, and lifting up of your eyes, your ſo<g ref="char:EOLunhyphen"/>ber, and very ſerious ſolitarie countenance, the decent and ſeemly cut of your haire, made even with the top of your eares, the come<g ref="char:EOLhyphen"/>lineſſe of your broad Hat, and narrow Ruffe, the poſition, or putting of your Dogs-skin gloves under your girdle, and the folding of your hands one within the other, reveale unto me, that you are one of the innocent or harmleſſe Lambs of the holy Flock.</p>
+            </sp>
+            <sp>
+               <speaker>Browniſt.</speaker>
+               <p>In ſinceritie, my deare brother, (for your inſight into mee ſhewes you to be no leſſe) I dare pronounce my ſelfe one of thoſe harmles Lambs you ſpeak of; I am a poore ſheep whom the ravenous and greedy Wolves have purſued with eagerneſſe and greedineſſe to devour, but by the aſſiſtance of the holy Spirit which ruleth in me, I have like a mild and guileleſſe Dove, been delivered from the Tallons of the greedy Goſſe-Hawk. Moreover, I am by trade a weaver, and by profeſſion one of the brother-hood: I am now going to converſe with ſome of our brother-hood concerning our next aſſembly.</p>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <p>I aſſure you well beloved brother, I took you to be one of our Congregation, &amp; am heartily ſorry that ſuch pure zeale as dwelleth in you ſhould be ſo miſ-led: I profeſſe to you, you erre very much, and are gone farre out of the way: you profeſſe your ſelfe to be one of the brother<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood, therefore you are out of the way, becauſe you are one of the brotherhood.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>Deare brother you condemne me before you doe apprehend me, you doe not rightly conceive what the brotherhood is, but be not ſo paſ<g ref="char:EOLhyphen"/>ſionate.</p>
+            </sp>
+            <sp>
+               <speaker>Ad.</speaker>
+               <p>My zeale puſteth me up exceedingly therefore I care not what the brother-hood is; for be it what it will, the brother-hood i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuperſtition.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>Dearely beloved brother, I beſeech you bridle and curb the fury of your hot zeal, &amp; I will tell you what the brother-hood is, &amp; give you good reaſon for it.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:66274:2"/>
+               <speaker>Adam.</speaker>
+               <p>
+                  <hi>Reaſon:</hi> art thou of a Religion thou canſt give a reaſon for? I ſay Religion ought to be guided by the motion of the Spirit, not Reaſon: Surely thou art one of the learned, that read in the language of the beaſt; thou talkeſt ſo much of Reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>No, I deny I am learned in the prophane tongues, and doe ut<g ref="char:EOLhyphen"/>terly abhorre and deteſt them: I have no more learning than my Father before me had, who did in all humility ſubmit his neck to the yoke or coller, becauſe he could not read: I hold it Idolatrie to learne to read, be<g ref="char:EOLhyphen"/>cauſe the very firſt letter begins with a Croſſe: therfore it is ſuperſtition in the higheſt degree.</p>
+            </sp>
+            <sp>
+               <speaker>Ad.</speaker>
+               <p>I heartily crave your forgiveneſſe, good brother for my impatience, and hope you will aſcribe it to the heat of my ardent zeale, which often breaketh into paſſion: For my ſelfe, I am the Sonne of <hi>Adam,</hi> who be<g ref="char:EOLhyphen"/>got me in his innocencie; I follow his ſteps before he fell: that is, I am an <hi>Adamite:</hi> And though at this preſent you ſee me cloathed in garments, which in verity and truth ought not to be worne but by the wicked, yet know, that when we expound, we lay aſide thoſe ſuperſtitious weeds and coverings of our bodies: and as my father <hi>Adam</hi> was naked, whilſt he was in Paradiſe, ſo doe we propheſie naked; that is to ſay, free from ſin, as our Father was whilſt he was naked.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>How oft doe you propheſie, daily?</p>
+            </sp>
+            <sp>
+               <speaker>Ad.</speaker>
+               <p>Not daily no, we have three days a week to meet upon mondayes, wenſdayes, &amp; fridayes: The firſt day is a day of Conference, on which day we hold parley how to encreaſe &amp; augment our number, and how to ſecure us from them that envie our innocence: the ſecond day is a day of humilia<g ref="char:EOLhyphen"/>tion, whereon we humble our ſelves by faſting, and praying by the Spirit.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>What need you to humble your ſelves ſo long as you are in in<g ref="char:EOLhyphen"/>nocence.</p>
+            </sp>
+            <sp>
+               <speaker>Ad.</speaker>
+               <p>Yes, leſt wee ſhould be ſubiect to the like caſualties our Father was, ſo long as we ſo humble our ſelves, we are incapable of falling.</p>
+            </sp>
+            <sp>
+               <speaker>Brown.</speaker>
+               <p>But what is done on the third and laſt day?</p>
+            </sp>
+            <sp>
+               <speaker>Adam.</speaker>
+               <p>That is a day of reioycing: on that day he on whom the Spirit falls is led in ſtate between two ſiſters, and mounted on a Chaire, circled on everie ſide with holy brethren, and more holy ſiſters, where he pro<g ref="char:EOLhyphen"/>pheſies till the ſpirit giveth way to the fleſh, and ſuffers it to rebell: then he whom the Spirit ſo moveth, by the inſurrection of the fleſh makes his election among the holy ſiſters, the reſt follow his example, and ſo they endevour to propagate, and augment their number. This is the day of reioycing, good brother follow my ſteps into the place of propheſying, and you ſhall returne abundantly edified.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:66274:3"/>
+               <speaker>Brown.</speaker>
+               <p>Well, in regard it is for propagation, and if I be edified as you ſay, I doubt not but to bring forth fruits accordingly.</p>
+               <p>So they both departed from that place where they held this conference, and went ſtraight to <hi>Mary-bone Park,</hi> where were gathered at leaſt one hundred men and women, and onely ſtayed for this <hi>Adamite;</hi> and ſo ſoone as he was come, they inſtantly ſtripped themſelves naked to the bare skinne, both men and women: and then in the manner aforeſaid, one of this holy Tribe aſcends the Chaire, wherein he preached this Sermon <hi>verbatim,</hi> as followeth.</p>
+            </sp>
+         </div>
+         <div type="sermon">
+            <head>The <hi>Adamites</hi> Sermon.</head>
+            <p>MOſt dearely beloved, now we are congregated and gathered toge<g ref="char:EOLhyphen"/>ther in the feare of the Lord, like an innocent and harmleſſe Flock of ſheep in this holy place, much like that Garden of Paradiſe wherein our firſt parents <hi>Adam</hi> and <hi>Eve</hi> were placed, Let us (my holy Bre<g ref="char:EOLhyphen"/>thren, and more holy ſiſters) imitate their examples, for you know they were naked, which is to ſay (if we rightly expound it) they were naked or without Cloathes: therefore let us lay aſide and ſet apart theſe unſan<g ref="char:EOLhyphen"/>ctified and wicked weeds, theſe ragges of ungodlineſſe, and prophane Re<g ref="char:EOLhyphen"/>licks of ſin, that is to ſay our Cloathes; not only Gownes and Breeches, Peticoats and Doublets; but alſo our ſhirts and ſmocks, eſpecially be<g ref="char:EOLhyphen"/>cauſe they are of the colour white, and like to the whore of <hi>Babylons</hi> ſu<g ref="char:EOLhyphen"/>perſtitious ſmock, with whom the wicked commit the act of Adulterie.</p>
+            <p>To which purpoſe I have made choyſe of a Text, and will by the ho<g ref="char:EOLhyphen"/>ly aſſiſtance of Inſpiration, Interpret, Expound, and Propheſie. There<g ref="char:EOLhyphen"/>fore with holy attention, I charge &amp; command you to give eare (for I hope none of our Sect have ever loſt theirs) and mark, as you ſhall find it thus regiſtred and recorded (or that the infants of grace may plainly under<g ref="char:EOLhyphen"/>ſtand) printed in the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Chapter of <hi>Geneſis,</hi> and the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Verſe, the words are theſe: <hi>And they were both naked; And they were both na<g ref="char:EOLhyphen"/>ked.</hi> Beloved, ſuch is the ſweetneſſe of theſe words that I am loath to loſe the taſte of them out of my mouth, but to ſatisfie the expectation of this faire aſſembly, according to the motion of the Spirit I ſhall prophe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie: Marke, beloved, and give attention to the ſound of the words: <hi>And they were both naked:</hi> They are words indeed of pleaſure for all the ſen<g ref="char:EOLhyphen"/>ces. No queſtion but the Prophet <hi>Geneſis</hi> himſelfe was naked when hee writ theſe words. Beloved by theſe words underſtand a twofold naked<g ref="char:EOLhyphen"/>neſſe;
+<pb n="5" facs="tcp:66274:3"/> The firſt is a nakedneſſe, or being voyd or expert of garments to cover the body: whereunto a nakedneſſe of ſin is incident, and appertai<g ref="char:EOLhyphen"/>ning to the naked of Garments; or to explaine it more fully, they that weare no cloathes, weare no coverings for ſin.</p>
+            <p>The ſecond is a nakedneſſe of ſtone-walls, and windowes full of Idola<g ref="char:EOLhyphen"/>trous pictures, Organs that bellow like the Beaſt of <hi>Rome,</hi> or to interpret it more plainly: Nakedneſſe of a Church, is the third nakedneſſe meant and underſtood in my Text: of all which, by the aſſiſtance of the Spirit, in their order. And firſt for nakedneſſe of garments<g ref="char:punc">▪</g>
+            </p>
+            <p>Thoſe that are naked, and uncloathed have no covering for their ſins, whereas, thoſe that are cloathed in fine raiment, like <hi>Dives</hi> ſpoken of in the Evangeliſt, have the viſible markes of the beaſt: they are proud, haughtie, and ambitious, they are gluttons and ſurfet with the Banners of pride: many weare Cloaks for their ſins, yea, brethren and ſiſters double Cloaks, yea though they be ſhort Cloaks, yet they are lin'd with Pluſh, they are out-landiſh pluſh cloaks, they ſmell of curſed <hi>Mahomet.</hi> Others my beloved brethren and Siſters, weare Cloaks of red Scarlet, ſide, large, and downe to the hams, which are indeed covers for their ſins that are as red as ſcarlet; they are popiſh and idolatrous, for they are invented by the French: they weare alſo locks, like the curled locks of Antichriſt, to cover their eares, as if they were all Scriveners: long haire is the enſigne of pride, and the world is full of theſe enſignes. Nay my beloved, thoſe that are the chiefe heads and Governours of the King<g ref="char:EOLhyphen"/>dome, the puniſhers of vice, maintaine it in themſelves, by wearing ſide and long robes of Purple, and Scarlet, under which are hid innumerable multitudes of iniquities. Nay, moreover, my beloved Brethren and Si<g ref="char:EOLhyphen"/>ſters, the popiſh Biſhops doe gird ſin to them, and keep it cloſe, as if they were in love with it, under their Canonicall Caſſocks, which are bound to them with Leviticall Surſingles, and upon them they wear large Surplices, made of fine linnen, like <hi>Dives</hi> that is ſpoken of before, and they weare upon them Gownes of beyond-ſea Satlens; the very name whereof is Idolatrie, becauſe it is a couſin German to Saten: thus much for Habits. Now to the next poynt of Nakednes, which is nakedneſſe of a Church, <hi>They were naked,</hi> that is to ſay, without a Church.</p>
+            <p>Now beloved, we muſt conſider what a Church is. A very zealous Brother had the unhappineſſe to be a bookiſh Scholler, and to underſtand the prophane language of <hi>Rome,</hi> but before his death he was verie peni<g ref="char:EOLhyphen"/>tent for it, and ſorrowed exceedingly. He ſaid the name of a Church in the Idolatrous Latin tongue was <hi>Eccleſia,</hi> which is derived from a Greek word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies to call, and that is the reaſon thoſe
+<pb n="6" facs="tcp:66274:4"/> prophane things called Bells were firſt invented ſo call the people to the Church. Beloved, I ſay it is Idolatrie to have Bells in t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Chu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, in regard they call men thither, whereas they ought indeed to bee guided by the motions of the Spirit, and ſo congregate themſelves together, and not be called together by thoſe muſicall Bells, Bels that doe ring Idola<g ref="char:EOLhyphen"/>trie in Changes. There are in thoſe Idolatrous Churc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat bel owing Organs, that roare like the great beaſt of <hi>Rome,</hi> which the wicked ſay is to ſtirre up their devotion. Oh beloved, this ought nor to be ſo, I am ſure it is otherwiſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with us, who (whilſt wee are in this Parke) are in innocence like our Father: our devotion is more zealous, which is one<g ref="char:EOLhyphen"/>ly moved by the Spirit, and not by the calling together, and compulſion of the Bells and Organs. Theſe wicked beloved, ſing their prayers in prick ſong, they keep men and boyes purpoſely for ſinging, which are clothed in white Raiments, they provide houſes for them in <hi>Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty Ca<g ref="char:EOLhyphen"/>nons;</hi> Beloved, I know you are not ignorant what Canons are, Canons I ſay, that were invented by the Arch-Prelate of <hi>Lambeth,</hi> wherein was included that <hi>Portentous</hi> Monſter, <hi>&amp;c.</hi> Now the ſinging men live in the <hi>Petty Canons,</hi> what then are the <hi>Great Ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons?</hi> Then the Miniſters that preach in thoſe Churches are learned and skilfull in the varietie of tongues ſuch as were at the confuſion of <hi>Babel,</hi> which I hope will be the confuſion of their Church; for it was the confuſion of languages that pul<g ref="char:EOLhyphen"/>led downe that high ſteeple, that <hi>Grantham</hi> ſpire ſteeple of <hi>Babel:</hi> They ſpeake in that Idolatrous tongue Latine ſo boldly as they doe in the Maſſes, and without contradictions my beloved, they give Logicall Rea<g ref="char:EOLhyphen"/>ſons too which is moſt ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ominable: they read prayers likewiſe upon the book, and not pray by the motion of the ſpirit that reigneth within them: and beloved more th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n all this, they pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>forme theſe ſuperſtitious offices in their Cloathes, which is more abhominable than all the reſt; for were their actions never ſo good, being done in their cloaths, it is moſt prophane. Moreover beloved in theſe Churches there are great windowes, nay pain<g ref="char:EOLhyphen"/>ted windowes, I ſay unto you windowes full of Images and Pictures; and the wicked doe kneele when they pray, and doe look upon theſe Ima<g ref="char:EOLhyphen"/>ges, which is meere poperie it ſelfe: they alſo marrie and give in marri<g ref="char:EOLunhyphen"/>age in thoſe Churches, which is altogether to be abhor'd, which is a great hindrance to propagation, when a man is tyed to one woman.</p>
+            <p>Theſe my dearely beloved, are infallible ſignes of poperie nouriſhed in their hearts, and expreſſed in their actions: but there is one thing more cheriſhed and favoured as their chiefe darling, which I am afraid is a ſin ſo name. Beleeve me brethren, it ſticks in my iawes very hard, it is a Croſſe, 'tis a Croſſe I ſay: Do not they ſet upon their Idolatrous Chur<g ref="char:EOLhyphen"/>ches
+<pb n="7" facs="tcp:66274:4"/> the Croſſe? Do not they build in the middle of their Cities Croſſes and put heads of Gold upon them? Do they not make Percullices for the Citie gates with croſſe beames in them? Do they not ſuffer the Lettices, or enſignes of the houſe of the beaſt with ſeven heads and ten hornes, I meane of Tavernes and Ale houſes, to bee made with croſſe barres? Doe they not ſet up ſignes to their houſes, (which ſhew there is nothing but poperie within) of the Croſſe Keyes? Doe they not picture Saint <hi>Laurence</hi> a croſſe his Gridfron? Doe they not make the bottome of their Andirons in croſſes? Are not their bed cords a croſſe? Are not the Leads in their windowes a croſſe? are not their two-handed ſwords made in forme of a Croſſe? Is not their coyne, as ſhillings, ſix pences, and the like, full of Croſſes? Our well affected brethren the <hi>Scots</hi> are enemies to thoſe Idolatrous croſſes, who make their two pences with Roſes and Thiſtles upon them? have not their gold of 11. ſhillings the Daggers a croſſe? Doe they not lay Sacks upon the backs of their hor<g ref="char:EOLhyphen"/>ſes a croſſe? Are not the Spokes of Coach-wheeles a Croſſe? are not the horſes harneſſes made a croſſe: And moreover, leſt they ſhould not have enough of Croſſes, doe they not name their ſtreets Red Croſſe ſtreet, and White-croſſe ſtreet? Nay more than this, doe they not ſet watch-men every night to attend the headleſſe Croſſe in <hi>Barbicane</hi> with Halberts that are a croſſe? My beloved they deale with many more croſſes, which the Spirit will not ſuffer me to name; But I will prophe<g ref="char:EOLhyphen"/>ſie the deſtruction of theſe Croſſes; Thou Croſſe in Cheap-ſide ſhalt bee deprived of thy h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, for thou art a Traytor; Thou art like tho Image that <hi>Nebuchadnezzar</hi> ſet up, thou haſt a head of Gold: thy barres about thee ſhall not deſend thee, thou ſhalt downe, and the Idols which thou beareſt about thee ſhall downe alſo; thou ſhalt bee like thy Idolatrous ſiſter in the <hi>Strand,</hi> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u ſhalt be rob'd of thy riches, have thy head cut off, and bee made a by-word to the Brethren. Thou <hi>Tottenham high Croſſe,</hi> thou high place of <hi>Tottenham,</hi> thy ſteps ſhall bee degraded, and the Boyes ſhall no more fall downe and worſhip thee. Thou prophane Tayler that ſitteſt croſſe leg'd, thy hands ſhall be troubled with the Fel<g ref="char:EOLhyphen"/>lon, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy knuckles ſhall be troubled with the itch: bread for thy ſake ſhall mould, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for want of it thou ſhalt eat thy owne vermin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; tho bills ſhal be rent in the middle and thou ſhalt dye a begger. Thou Cobler, that draw<g ref="char:EOLhyphen"/>eſt thy threds a croſſe, the Sole thou tak'ſt in hand to tranſlate ſhall fleet; for thy ſake the patent for Leather ſhall be renued, it ſhall be tranſported into <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce:</hi> thy old Boots hanging at thy ſhall ſhall bee mouldie, and none ſhall buy them, thou ſhalt pawne thy Aule for drinke, and thy end ſhall bee in the ſtall. Thou wicked Waterman, that does croſſe
+<pb n="8" facs="tcp:66274:5"/> the Water, there ſhall be for thy ſake a great preſſe, ſo that thou ſhalt for<g ref="char:EOLhyphen"/>ſake the River: when thou returneſt, thou ſhalt ſee fires and Coaches upon the Thames, and the firſt Faire thou carrieſt after, thou ſhalt bee paid with the <hi>P.</hi> and ſay I thanke you miſtreſſe: theſe plagues my belo<g ref="char:EOLhyphen"/>ved ſhall fall upon theſe Idolatrous Croſſes, and their Adorers. Nay more, the very name of Croſſe ſhall be utterly aboliſhed. Let not your Daughters my dearely beloved, ſit like Taylors croſſe leg'd, it will hin<g ref="char:EOLhyphen"/>der the encreaſe of the godly: Let not your old men goe croſſe gariered, nor goe with crutches under their armes, that are made like Croſſes, for it is poperie in the abſtract: Do not covet to enter their idolatrous Chur<g ref="char:EOLhyphen"/>ches for they are abhominable: This our aſſembly is more holy than their conſecrated Church: the green Liverie of theſe trees more pleaſant than their painted windowes; the Summer apparell of the earth more delightfull and ſofter by far than their ſtones: the chirping of theſe pret<g ref="char:EOLhyphen"/>ty birds more melodious than their howling Organs; and laſtly, our na<g ref="char:EOLhyphen"/>kedneſſe Innocence, and their veſtments Idolatrous; nay, they are popiſh and ſuperſtitious in all their actions: but good brethren and ſiſters, be not ſeduced by them, for they be wicked, abhominable, and prophane.</p>
+            <p>But beloved brethren, and more beloved ſiſters, it is no wonder, though they be altogether Idolatrous, when their verie bread that is their chiefe nouriſhment, is Croſſe Buns, which is Idolatrous, and is made of corne that is ground by a wicked Miller, who hath carried it in a Sack croſſe his ſhoulders, I ſay, croſſe his ſholders, and hath ground it in a Wind<g ref="char:EOLhyphen"/>mill, the Sailes whereof are croſſe: And my beloved, as if this were not Idolatrie ſufficient, they cloath their ſailes with cloathes, and never thinke of the golden ſaying, <hi>And they were both naked.</hi>
+            </p>
+            <p>We therefore, my dearely affected, that are voyd of theſe ſuperſtitious coverings, not onely <hi>Cloathes,</hi> but alſo <hi>Churches,</hi> for we propheſie in the open fields as our Father <hi>Adam</hi> did in the garden of <hi>Eden,</hi> muſt needs be in the ſtate of innocence, as he was, for we have not ſo much as fig-leaves upon us: let us therefore reioyce exceedingly, and expreſſe our ioy in the lively act of Generation, and propagation of the godly, that may bee borne naked as we are at this preſent. And ſo much for this time.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66274:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
